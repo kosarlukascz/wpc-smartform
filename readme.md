@@ -1,7 +1,7 @@
 # WPC Smartform Integration
 
 **Contributors:** WPC Plugins  
-**Tags:** WooCommerce, Smartform, Address Validation  
+**Tags:** WordPress, WordPress plugin, WooCommerce, Smartform, Address Validation  
 **Requires at least:** 5.0  
 **Tested up to:** 8.0  
 **Requires PHP:** 7.4  
