@@ -63,3 +63,6 @@ Navigate to `WooCommerce` > `Settings` > `Smartform Integration` and select the 
 ## License
 
 This plugin is licensed under the GPLv2 or later. For more information, see [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html).
+
+---
+*This README was written by OpenAI ChatGPT 4o.*
